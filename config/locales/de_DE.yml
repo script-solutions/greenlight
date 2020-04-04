@@ -174,7 +174,8 @@ de_DE:
     organisation: script-solutions
     organisation_url: script-solutions.de
     footer_stemp: © 2020 script-solutions.de
-    footer_text: Dieser Server wird mit der Open Source Software von BigBlueButton und Greenlight bereitgestellt.
+    custom_powered_byGL: "Bereitgestellt durch %{href} "
+    custom_powered_byBBB: "und %{href}."
   date:
     month_names: [~, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   default_admin: "Sie verwenden immer noch das voreingestellte Passwort für dieses Konto. Bitte klicken Sie <a href=\"%{edit_link}\">hier</a>, um es zu ändern"
