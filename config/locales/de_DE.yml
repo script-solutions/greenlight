@@ -259,7 +259,7 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "Dies ist ein einfacher Konferenzserver zur Umsetzung von Webinaren, Schulungen und Beratungen von script-solutions. Für den Zugang melden sie sich auf %{href} für freie Schulungen oder Beratungen an. Sie bekommen nach der Registrierung ihre Zugangsdaten oder einen Link mit Ihrem Zugangscode zugeschickt."
+    about: "Dies ist ein einfacher Konferenzserver zur Umsetzung von Webinaren, Schulungen und Beratungen von script-solutions. Für den Zugang melden sie sich auf script-solutions.de für freie Schulungen oder Beratungen an. Sie bekommen nach der Registrierung ihre Zugangsdaten oder einen Link mit Ihrem Zugangscode zugeschickt."
     welcome: Willkommen bei conference.script-solutions.de
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
