@@ -178,6 +178,12 @@ de_DE:
   email: E-Mail
   email_sent: "Ihre %{email_type} Email wurde verschickt! (Bitte prüfen Sie Ihren Spamordner, falls Sie die Email nicht erhalten haben)"
   enter_your_name: Geben Sie Ihren Namen ein!
+  custom:
+    site_title: conference-script-solutions
+    organisation: script-solutions
+    organisation_url: script-solutions.de
+    footer_stemp: © 2020 script-solutions.de
+    footer_text: Dieser Server wird mit der Open Source Software von BigBlueButton und Greenlight bereitgestellt.
   errors:
     bigbluebutton:
       help: "Bitte stellen Sie sicher, dass die notwendigen Schritte durchgeführt wurden. <a href=\"%{doc_link}\">Mehr erfahren</a>"
@@ -259,8 +265,8 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    about: "Dies ist ein einfacher Konferenzserver zur Umsetzung von Webinaren, Schulungen und Beratungen von script-solutions. Für den Zugang melden sie sich auf %{href} für freie Schulungen oder Beratungen an. Sie bekommen nach der Registrierung ihre Zugangsdaten oder einen Link mit Ihrem Zugangscode zugeschickt."
+    welcome: Willkommen bei conference.script-solutions.de
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
