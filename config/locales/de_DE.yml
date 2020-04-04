@@ -169,6 +169,12 @@ de_DE:
     cookie_button: Ich stimme zu
   copied: Kopiert
   copy: Kopieren
+  custom:
+    site_title: conference-script-solutions
+    organisation: script-solutions
+    organisation_url: script-solutions.de
+    footer_stemp: © 2020 script-solutions.de
+    footer_text: Dieser Server wird mit der Open Source Software von BigBlueButton und Greenlight bereitgestellt.
   date:
     month_names: [~, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   default_admin: "Sie verwenden immer noch das voreingestellte Passwort für dieses Konto. Bitte klicken Sie <a href=\"%{edit_link}\">hier</a>, um es zu ändern"
@@ -178,12 +184,6 @@ de_DE:
   email: E-Mail
   email_sent: "Ihre %{email_type} Email wurde verschickt! (Bitte prüfen Sie Ihren Spamordner, falls Sie die Email nicht erhalten haben)"
   enter_your_name: Geben Sie Ihren Namen ein!
-  custom:
-    site_title: conference-script-solutions
-    organisation: script-solutions
-    organisation_url: script-solutions.de
-    footer_stemp: © 2020 script-solutions.de
-    footer_text: Dieser Server wird mit der Open Source Software von BigBlueButton und Greenlight bereitgestellt.
   errors:
     bigbluebutton:
       help: "Bitte stellen Sie sicher, dass die notwendigen Schritte durchgeführt wurden. <a href=\"%{doc_link}\">Mehr erfahren</a>"
