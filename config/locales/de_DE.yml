@@ -172,6 +172,9 @@ de_DE:
   custom:
     title: conference-script-solutions
     organisation: script-solutions
+    footer1: "Dieser Server wird mit der Open-Source-Software von %{href}"
+    footer2: "und %{href} betrieben."
+    footer_stemp: "© 2020 script-solutions"
   date:
     month_names: [~, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   default_admin: "Sie verwenden immer noch das voreingestellte Passwort für dieses Konto. Bitte klicken Sie <a href=\"%{edit_link}\">hier</a>, um es zu ändern"

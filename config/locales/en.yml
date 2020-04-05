@@ -172,6 +172,9 @@ en:
   custom:
     title: conference-script-solutions
     organisation: script-solutions
+    footer1: "This server runs with %{href}"
+    footer2: "and %{href}."
+    footer_stemp: "© 2020 script-solutions"
   date:
     month_names: [~, January, February, March, April, May, June, July, August, September, October, November, December]
   default_admin: You are still using the default password for this account. Please click <a href="%{edit_link}">here</a> to change it
