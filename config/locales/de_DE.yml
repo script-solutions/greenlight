@@ -169,6 +169,9 @@ de_DE:
     cookie_button: Ich stimme zu
   copied: Kopiert
   copy: Kopieren
+  custom:
+    title: conference-script-solutions
+    organisation: script-solutions
   date:
     month_names: [~, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   default_admin: "Sie verwenden immer noch das voreingestellte Passwort für dieses Konto. Bitte klicken Sie <a href=\"%{edit_link}\">hier</a>, um es zu ändern"
