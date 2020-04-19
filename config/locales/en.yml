@@ -267,7 +267,7 @@ en:
       start: Start searching...
   landing:
     about: "This is a conference server for the implementation of webinars, training courses and consultings from script-solutions. For access, go to script-solutions.de for available dates of our offer. After registration you will receive your login credentials or a link with your access code."
-    welcome: Welcome to script-solutions.de
+    welcome: Welcome to conference.script-solutions.de
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
