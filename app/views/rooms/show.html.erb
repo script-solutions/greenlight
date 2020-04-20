@@ -13,8 +13,6 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
-<%= render "shared/custom_show" %>
-
 <% exceeds_limit = current_room_exceeds_limit(@room)%>
 <% if exceeds_limit%>
   <div class="alert alert-danger alert-dismissible text-center mb-0">
@@ -114,3 +112,5 @@
   <%= render "shared/modals/share_room_modal" %>
   <%= render "shared/modals/remove_access_modal" %>
 <% end %>
+
+<%= render "rooms/components/custom_show" %>
