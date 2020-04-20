@@ -77,3 +77,9 @@
         </div>
     </div>
 </div>
+
+
+<% if shared_access_allowed %>
+  <%= render "shared/modals/share_room_modal" %>
+  <%= render "shared/modals/remove_access_modal" %>
+<% end %>
