@@ -13,9 +13,9 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
-<div id="cant-create-room-wrapper" class="background h-100 cant-create-room-wrapper">
-    <div class="container h-100">
-        <div class="row h-100 align-items-center">
+<div class="background pb-1">
+    <div class="container">
+        <div class="row align-items-center">
             <div class="col-12">
                 <div class="row">
                     <div class="col-5">
@@ -73,7 +73,13 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
   
+
+
+
 
 <% exceeds_limit = current_room_exceeds_limit(@room)%>
 <% if exceeds_limit%>
@@ -174,6 +180,3 @@
   <%= render "shared/modals/share_room_modal" %>
   <%= render "shared/modals/remove_access_modal" %>
 <% end %>
-
-</div>
-</div>
