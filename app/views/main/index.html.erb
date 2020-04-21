@@ -24,4 +24,6 @@
   </div>
 </div>
 
+<% if !current_user %>
 <%= render "sessions/signin" %>
+<% end %>
